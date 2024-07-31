@@ -1,4 +1,4 @@
-# Telegram бот для управления постами WordPress. 
+# TG-Wordpress-Posts 
 
 Этот Telegram бот помогает управлять постами WordPress на вашем сайте. Написан на NodeJs + GrammyJS. Использует REST API WP.
 
