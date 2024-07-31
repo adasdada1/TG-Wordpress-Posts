@@ -1,6 +1,6 @@
-# Telegram бот для управления постами на основе GrammyJS
+# Telegram бот для управления постами WordPress. 
 
-Этот Telegram бот помогает управлять постами WordPress на вашем сайте.
+Этот Telegram бот помогает управлять постами WordPress на вашем сайте. Написан на NodeJs + GrammyJS. Использует REST API WP.
 
 ## Возможности
 
